@@ -1,2 +1,0 @@
-# The Electron Quick Start
-
