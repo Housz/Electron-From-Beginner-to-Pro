@@ -7,7 +7,7 @@ Electron: From Beginner to Pro in Chinese by Housz
 Electron: From Beginner to Pro Learn to Build Cross Platform Desktop Applications using Github's Electron, Chris Griffith Leif Wells
 
 
-![cover](https://github.com/Housz/Electron-From-Beginner-to-Pro/blob/master/imgs/0.jpg)    
+![cover](https://github.com/Housz/Electron-From-Beginner-to-Pro/blob/master/imgs/cover.jpg)    
 *Electron-From-Beginner-to-Pro*   
 
 ![authors](https://github.com/Housz/Electron-From-Beginner-to-Pro/blob/master/imgs/authors.jpg)    
