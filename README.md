@@ -1,5 +1,5 @@
-# Electron-From-Beginner-to-Pro 《Electron：基础教程》
-《Electron：基础教程》 个人翻译
+# Electron-From-Beginner-to-Pro 《Electron 基础教程》
+《Electron 基础教程》 个人翻译
 
 Electron: From Beginner to Pro in Chinese by Housz
 
